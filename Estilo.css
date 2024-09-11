@@ -1,0 +1,46 @@
+
+body{
+    background: linear-gradient(to right, rgb(87, 196, 215), rgb(66, 136, 215), blue); /* Safari y Chrome */
+   /* background: -moz-linear-gradient(rgb(87, 196, 215), blue);    /* Firefox */
+   /* background: -o-linear-gradient(rgb(87, 196, 215), blue);      /* Opera */
+   /* background: linear-gradient(rgb(87, 196, 215), blue);         /* Estándar */
+    
+};
+
+  .iniciodesesion{
+    position: absolute center;  
+    position: center;
+    padding-top: 8%;
+    margin: auto;
+    height: 70%;
+    width: 100%;
+    padding: 20px;
+    box-shadow: 0 0 10px 10px #ffffff(255, 255, 255);
+    margin-top: 8%;
+    background-color: #ffffffba; height: 300px; width: 500px; ;
+
+}
+
+.body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center; /* Centrar horizontalmente */
+  align-items: center;     /* Centrar verticalmente */
+  background-color: #1c0d0d00; /* Fondo de la página */
+}
+
+.cuadrado {
+  width: 100px;   /* Ancho del cuadrado */
+  height: 100px;  /* Alto del cuadrado */
+      background-color: #010101; /* Fondo de la página */
+  width: 100px;   /* Ancho del cuadrado */
+  height: 100px;  /* Alto del cuadrado */
+  background-color: rgb(0, 0, 0); /* Color de fondo del cuadrado */
+}
+
+
+.h1 {
+  color: #ffffff;
+  height: inherit;
+}
